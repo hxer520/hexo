@@ -1,4 +1,4 @@
-# Hexo Configuration
+# Hexo Configuration 111
 ## Docs: https://hexo.io/docs/configuration.html
 ## Source: https://github.com/hexojs/hexo/
 
@@ -10,16 +10,16 @@ keywords: 洛羽 881115
 author: Ringo.
 language: zh-CN
 timezone: ''
-email: erindoo@me.com
+email: erindoo@me.com 
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
 url: https://yuices.ml
-permalink: :year/:month/:day/:title/
+# permalink: :year/:month/:day/:title/  使用了abbrlink 无用了
 permalink: post/:abbrlink.html  # p 是自定义的前缀
 abbrlink:
-    alg: crc16   #算法： crc16(default) and crc32
-    rep: dec    #进制： dec(default) and hex
+	alg: crc16   #算法： crc16(default) and crc32
+	rep: dec    #进制： dec(default) and hex
 
 pretty_urls:
   trailing_index: true # Set to false to remove trailing 'index.html' from permalinks
