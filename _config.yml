@@ -3,17 +3,18 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: '小团子的小窝'
-keywords:
-author: John Doe
+title: 小团子的窝
+subtitle: '小团子的窝'
+description: '一个收藏回忆与分享技术的地方'
+keywords: 洛羽 881115
+author: Ringo.
 language: zh-CN
 timezone: ''
+email: erindoo@me.com
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: https://yuices.ml
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -97,8 +98,9 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: fluid
-# 主题更换:volantis,aomori,nothinglin(复古风,有作者个人内容),fluid,butterfly,nexmoe(二次元系,需要去除作者自定义个人内容后使用),melody
+theme: butterfly
+# 主题更换:volantis,aomori,nothinglin(复古风,有作者个人内容),
+#fluid(暗黑系),butterfly,nexmoe(二次元系,需要去除作者自定义个人内容后使用),melody(蓝色主题,太简单了)
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
