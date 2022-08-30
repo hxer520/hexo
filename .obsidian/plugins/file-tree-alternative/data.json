@@ -9,7 +9,7 @@
   "revealActiveFileButton": false,
   "excludedExtensions": "",
   "excludedFolders": "scaffolds, node_modules, public, waline-1",
-  "folderIcon": "circle-gg",
+  "folderIcon": "default",
   "folderCount": true,
   "folderCountOption": "files",
   "evernoteView": true,
