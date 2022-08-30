@@ -1,0 +1,10 @@
+{
+  "useMarkdownLinks": true,
+  "userIgnoreFilters": [
+    "node_modules/",
+    "waline-1/",
+    "scaffolds/",
+    "themes/",
+    "public/"
+  ]
+}
