@@ -111,6 +111,6 @@ deploy:
   type: ''
 
 #文件夹自动分类插件
-auto_category:
- enable: true
- depth:
+# auto_category:
+ #enable: true
+ #depth:
