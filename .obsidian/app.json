@@ -11,5 +11,6 @@
   "newFileLocation": "folder",
   "newLinkFormat": "relative",
   "newFileFolderPath": "source/_posts",
-  "attachmentFolderPath": "/"
+  "attachmentFolderPath": "/",
+  "promptDelete": false
 }
