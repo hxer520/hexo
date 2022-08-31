@@ -102,15 +102,10 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: volantis
+theme: fluid
 # 主题更换:volantis,aomori,nothinglin(复古风,有作者个人内容),
 #fluid(暗黑系),butterfly,nexmoe(二次元系,需要去除作者自定义个人内容后使用),melody(蓝色主题,太简单了)
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: ''
-
-#文件夹自动分类插件
-# auto_category:
- #enable: true
- #depth:

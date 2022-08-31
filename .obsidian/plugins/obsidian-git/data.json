@@ -9,7 +9,7 @@
   "disablePush": false,
   "pullBeforePush": true,
   "disablePopups": true,
-  "listChangedFilesInMessageBody": true,
+  "listChangedFilesInMessageBody": false,
   "showStatusBar": true,
   "updateSubmodules": false,
   "syncMethod": "merge",
@@ -17,7 +17,7 @@
   "autoBackupAfterFileChange": false,
   "treeStructure": false,
   "refreshSourceControl": false,
-  "basePath": "",
+  "basePath": "hexo",
   "differentIntervalCommitAndPush": true,
   "changedFilesInStatusBar": true,
   "username": ""
