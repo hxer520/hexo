@@ -109,3 +109,8 @@ theme: fluid
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: ''
+  
+# 自动分类
+auto_category:
+ enable: true
+ depth: 1
