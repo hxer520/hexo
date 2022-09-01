@@ -102,7 +102,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: fluid
+theme: butterfly
 # 主题更换:volantis,aomori,nothinglin(复古风,有作者个人内容),
 #fluid(暗黑系),butterfly,nexmoe(二次元系,需要去除作者自定义个人内容后使用),melody(蓝色主题,太简单了)
 # Deployment
@@ -114,3 +114,15 @@ deploy:
 auto_category:
  enable: true
  depth: 1
+  # tags:
+  # - {name: yuice, password: 881115}
+  # - {name: Daily, password: 920823}
+
+# 文章加密
+encrypt: # hexo-blog-encrypt
+  abstract: block!
+  message: 您好, 这里需要密码.
+
+  theme: Blink
+  wrong_pass_message: 抱歉, 这个密码看着不太对, 请再试试.
+  wrong_hash_message: 抱歉, 这个文章不能被校验, 不过您还是能看看解密后的内容.
