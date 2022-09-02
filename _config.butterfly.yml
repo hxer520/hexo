@@ -302,16 +302,19 @@ gitalk:
 valine:
   appId: KVfQnOtszvxTW54PIbdN7Kep-gzGzoHsz # leancloud application app id
   appKey: dOOzUqFs6GvEi1XFEV36cxvV # leancloud application app key
-  avatar: monsterid # gravatar style https://valine.js.org/#/avatar
+  avatar: retro # gravatar style https://valine.js.org/#/avatar
   serverURLs: https://kvfqnots.lc-cn-n1-shared.com # This configuration is suitable for domestic custom domain name users, overseas version will be automatically detected (no need to manually fill in)
-  bg: /img/comment_bg.png # valine background
+  bg: /img/扑倒(1).png # valine background
   visitor: true
-  option:
+  # option:
   placeholder: 写下我的评论... # 初始化评论显示，根据自己修改，这里默认，
   guest_info: nick,mail # 自定义评论标题
   pageSize: 10 # 分页大小，10页就自动分页
+
+
+
   
-# waline - A simple comment system with backend support fork from Valine
+ # waline - A simple comment system with backend support fork from Valine
 # https://waline.js.org/
 waline:
   serverURL: # Waline server address url
