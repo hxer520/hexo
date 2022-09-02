@@ -304,7 +304,7 @@ valine:
   appKey: dOOzUqFs6GvEi1XFEV36cxvV # leancloud application app key
   avatar: retro # gravatar style https://valine.js.org/#/avatar
   serverURLs: https://kvfqnots.lc-cn-n1-shared.com # This configuration is suitable for domestic custom domain name users, overseas version will be automatically detected (no need to manually fill in)
-  bg: /img/扑倒(1).png # valine background
+  bg: https://cdn.jsdelivr.net/gh/drew233/cdn/20200409110727.webp # valine background
   visitor: true
   # option:
   placeholder: 写下我的评论... # 初始化评论显示，根据自己修改，这里默认，
