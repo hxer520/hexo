@@ -1,0 +1,16 @@
+{
+  "useMarkdownLinks": false,
+  "userIgnoreFilters": [
+    "node_modules/",
+    "waline-1/",
+    "scaffolds/",
+    "themes/",
+    "public/"
+  ],
+  "showLineNumber": true,
+  "newFileLocation": "folder",
+  "newLinkFormat": "relative",
+  "newFileFolderPath": "source/_posts",
+  "attachmentFolderPath": "/",
+  "promptDelete": false
+}
